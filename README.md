@@ -1,7 +1,7 @@
 # 💫 About Me:
 BTech Student<br>Ethical Hacker<br>Loves Coding,Gaming.
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/abuihsan341.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/ihsan.rtx.png" alt="TryHackMe">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CqNcu4GzyB) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ihsan.404) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-ihsan-0a0997255/) 
